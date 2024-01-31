@@ -1,0 +1,12 @@
+#grid_container{
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px;
+}
+.border_class{
+    border: 2px solid black;
+    box-shadow: 2px;
+}
+.grid_item{
+    transition: 1s;
+}
